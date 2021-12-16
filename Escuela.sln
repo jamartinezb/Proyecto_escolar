@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{f5b285a8-c7b9-d295-67a3-0a66fb636a6e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Management.Samples", "Unity.XR.Management.Samples.csproj", "{b56c5f96-e5ac-9ade-f49d-f6364b899508}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Management.Samples.Editor", "Unity.XR.Management.Samples.Editor.csproj", "{fec76253-5c76-9deb-8931-224dc62c0cd7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditorMigrationScripts", "EditorMigrationScripts.csproj", "{a94c917a-d384-a72a-74a1-2cd65235ef50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{f5b285a8-c7b9-d295-67a3-0a66fb636a6e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f5b285a8-c7b9-d295-67a3-0a66fb636a6e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b56c5f96-e5ac-9ade-f49d-f6364b899508}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b56c5f96-e5ac-9ade-f49d-f6364b899508}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{fec76253-5c76-9deb-8931-224dc62c0cd7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{fec76253-5c76-9deb-8931-224dc62c0cd7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a94c917a-d384-a72a-74a1-2cd65235ef50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a94c917a-d384-a72a-74a1-2cd65235ef50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
